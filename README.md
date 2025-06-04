@@ -8,9 +8,9 @@ const precap = {
   tools: [React, Redux, Node, Docker, Laravel, Postman, View],
 }
 ```
-You can find me 🌍:
-- [Linkedin] (https://www.linkedin.com/in/raul-precup-b10286296/)
-- [Gmail] (raul.precupp@gmail.com)
+You can find and contact me 🌍:
+- Linkedin: https://www.linkedin.com/in/raul-precup-b10286296/
+- Gmail: raul.precupp@gmail.com
 
 
 <!--
