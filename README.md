@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hi, I'm Raul 👋
+```js
+const precap = {
+  pronouns: "he" | "him",
+  technologies: "Web",
+  passions: ["Performance Web", "Web Development"],
+  code: [Javascript, Typescript, HTML, CSS, PHP, Java],
+  tools: [React, Redux, Node, Docker, Laravel, Postman, View],
+}
+```
+You can find me 🌍:
+-[Linkedin] (https://www.linkedin.com/in/raul-precup-b10286296/)
+-[Gmail] (raul.precupp@gmail.com)
+
 
 <!--
 **Raul-Precup/Raul-Precup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
