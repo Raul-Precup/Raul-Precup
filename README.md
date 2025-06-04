@@ -9,8 +9,8 @@ const precap = {
 }
 ```
 You can find me 🌍:
--[Linkedin] (https://www.linkedin.com/in/raul-precup-b10286296/)
--[Gmail] (raul.precupp@gmail.com)
+- [Linkedin] (https://www.linkedin.com/in/raul-precup-b10286296/)
+- [Gmail] (raul.precupp@gmail.com)
 
 
 <!--
